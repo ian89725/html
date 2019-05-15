@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>    
+    
+    
+<h2>Basic HTML Table</h2>
+
+<link rel="stylesheet" href="ex_0411.css">
+
+    
+<table style="width:100%;color:brown;font;20px;">
+    
+  <tr style="color: black;font:30px">
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>    
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>    
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>    
+  <tr>
+    <td>john</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+    
+</body>
+</html>
